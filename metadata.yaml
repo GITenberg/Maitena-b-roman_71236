@@ -1,0 +1,35 @@
+_repo: Maitena-b-roman_71236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nabonne, Bernard
+    birthdate: 1897
+    deathdate: 1951
+    gutenberg_agent_id: '56138'
+    url: http://www.gutenberg.org/2009/agents/56138
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bernard_Nabonne
+    - https://fr.wikipedia.org/wiki/Bernard_Nabonne
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71236'
+  lccn: '28007971'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89010610947
+pgterms:marc905: 20230211114922nabonne
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bGeorges Crès et Cie, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: '"Le beau navire"'
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Maïténa : $b roman'
+url: http://www.gutenberg.org/ebooks/71236
